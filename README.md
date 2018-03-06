@@ -57,47 +57,47 @@
 阿里云：http://mirrors.aliyun.com/centos/
 
 ### （二）、服务器类
-- tomcat、Apache
-中国互联网络信息中心：http://mirrors.cnnic.cn/apache/
-华中科技大学：http://mirrors.hust.edu.cn/apache/
-北京理工大学：http://mirror.bit.edu.cn/apache/
+#### tomcat、Apache
+- 中国互联网络信息中心：http://mirrors.cnnic.cn/apache/
+- 华中科技大学：http://mirrors.hust.edu.cn/apache/
+- 北京理工大学：http://mirror.bit.edu.cn/apache/
 
-- MySQL
-北京理工大学：http://mirror.bit.edu.cn/mysql/Downloads/
-中国电信天翼云：http://mirrors.ctyun.cn/Mysql/
+#### MySQL
+- 北京理工大学：http://mirror.bit.edu.cn/mysql/Downloads/
+- 中国电信天翼云：http://mirrors.ctyun.cn/Mysql/
 
-- PostgreSQL
-浙江大学：http://mirrors.zju.edu.cn/postgresql/
+#### PostgreSQL
+- 浙江大学：http://mirrors.zju.edu.cn/postgresql/
 
-- MariaDB
-中国电信天翼云：http://mirrors.ctyun.cn/MariaDB/
+#### MariaDB
+- 中国电信天翼云：http://mirrors.ctyun.cn/MariaDB/
 
-- VideoLAN
-大连东软信息学院：http://mirrors.neusoft.edu.cn/videolan/
-中国科技大学：http://mirrors.ustc.edu.cn/videolan-ftp/
+#### VideoLAN
+- 大连东软信息学院：http://mirrors.neusoft.edu.cn/videolan/
+- 中国科技大学：http://mirrors.ustc.edu.cn/videolan-ftp/
 
 ### （三）、开发工具类
-- eclipse
-中国科技大学：http://mirrors.ustc.edu.cn/eclipse/
-中国科学院：http://mirrors.opencas.cn/eclipse/
-东北大学：http://ftp.neu.edu.cn/mirrors/eclipse/，http://mirror.neu.edu.cn/eclipse/
+#### eclipse
+- 中国科技大学：http://mirrors.ustc.edu.cn/eclipse/
+- 中国科学院：http://mirrors.opencas.cn/eclipse/
+- 东北大学：http://ftp.neu.edu.cn/mirrors/eclipse/，http://mirror.neu.edu.cn/eclipse/
 
-- 安卓SDK
-中国科学院：http://mirrors.opencas.ac.cn/android/repository/
-南洋理工学院：http://mirror.nyist.edu.cn/android/repository/
-中国科学院：http://mirrors.opencas.cn/android/repository/
-腾讯：http://android-mirror.bugly.qq.com:8080/android/repository/（限流，不推荐）
-大连东软信息学院：http://mirrors.neusoft.edu.cn/android/repository/（同步效果不如中科院的镜像，不推荐）
+#### 安卓SDK
+- 中国科学院：http://mirrors.opencas.ac.cn/android/repository/
+- 南洋理工学院：http://mirror.nyist.edu.cn/android/repository/
+- 中国科学院：http://mirrors.opencas.cn/android/repository/
+- 腾讯：http://android-mirror.bugly.qq.com:8080/android/repository/（限流，不推荐）
+- 大连东软信息学院：http://mirrors.neusoft.edu.cn/android/repository/（同步效果不如中科院的镜像，不推荐）
 
-- Xcode
-腾讯：http://android-mirror.bugly.qq.com:8080/Xcode/（从7.2之后不再更新，建议直接从官网下载）
+#### Xcode
+- 腾讯：http://android-mirror.bugly.qq.com:8080/Xcode/（从7.2之后不再更新，建议直接从官网下载）
 
 ## 三、官方镜像列表状态地址
-CentOS：http://mirror-status.centos.org/#cn
-Archlinux：https://www.archlinux.org/mirrors/status/
-Ubuntu：https://launchpad.net/ubuntu/+cdmirrors
-Debian：http://mirror.debian.org/status.html
-Fedora Linux/Fedora EPEL：https://admin.fedoraproject.org/mirrormanager/mirrors
-Apache：http://www.apache.org/mirrors/#cn
+- CentOS：http://mirror-status.centos.org/#cn
+- Archlinux：https://www.archlinux.org/mirrors/status/
+- Ubuntu：https://launchpad.net/ubuntu/+cdmirrors
+- Debian：http://mirror.debian.org/status.html
+- Fedora Linux/Fedora EPEL：https://admin.fedoraproject.org/mirrormanager/mirrors
+- Apache：http://www.apache.org/mirrors/#cn
 
-Cygwin：https://www.cygwin.com/mirrors.html
+- Cygwin：https://www.cygwin.com/mirrors.html
