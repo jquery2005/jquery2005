@@ -45,51 +45,51 @@
 ## 二、软件版
 
 ### （一）、操作系统类
-1.Ubuntu
+- Ubuntu
 阿里云：http://mirrors.aliyun.com/ubuntu-releases/
 网易：http://mirrors.163.com/ubuntu-releases/
 搜狐：http://mirrors.sohu.com/ubuntu-releases/（搜狐在12年之后似乎不同步了）
 首都在线科技股份有限公司：http://mirrors.yun-idc.com/ubuntu-releases/
 
-2.centos
+- centos
 网易：http://mirrors.163.com/centos/
 搜狐：http://mirrors.sohu.com/centos/
 阿里云：http://mirrors.aliyun.com/centos/
 
 ### （二）、服务器类
-1.tomcat、Apache
+- tomcat、Apache
 中国互联网络信息中心：http://mirrors.cnnic.cn/apache/
 华中科技大学：http://mirrors.hust.edu.cn/apache/
 北京理工大学：http://mirror.bit.edu.cn/apache/
 
-2.MySQL
+- MySQL
 北京理工大学：http://mirror.bit.edu.cn/mysql/Downloads/
 中国电信天翼云：http://mirrors.ctyun.cn/Mysql/
 
-3.PostgreSQL
+- PostgreSQL
 浙江大学：http://mirrors.zju.edu.cn/postgresql/
 
-4.MariaDB
+- MariaDB
 中国电信天翼云：http://mirrors.ctyun.cn/MariaDB/
 
-5.VideoLAN
+- VideoLAN
 大连东软信息学院：http://mirrors.neusoft.edu.cn/videolan/
 中国科技大学：http://mirrors.ustc.edu.cn/videolan-ftp/
 
 ### （三）、开发工具类
-1.eclipse
+- eclipse
 中国科技大学：http://mirrors.ustc.edu.cn/eclipse/
 中国科学院：http://mirrors.opencas.cn/eclipse/
 东北大学：http://ftp.neu.edu.cn/mirrors/eclipse/，http://mirror.neu.edu.cn/eclipse/
 
-2.安卓SDK
+- 安卓SDK
 中国科学院：http://mirrors.opencas.ac.cn/android/repository/
 南洋理工学院：http://mirror.nyist.edu.cn/android/repository/
 中国科学院：http://mirrors.opencas.cn/android/repository/
 腾讯：http://android-mirror.bugly.qq.com:8080/android/repository/（限流，不推荐）
 大连东软信息学院：http://mirrors.neusoft.edu.cn/android/repository/（同步效果不如中科院的镜像，不推荐）
 
-3.Xcode
+- Xcode
 腾讯：http://android-mirror.bugly.qq.com:8080/Xcode/（从7.2之后不再更新，建议直接从官网下载）
 
 ## 三、官方镜像列表状态地址
