@@ -45,16 +45,16 @@
 ## 二、软件版
 
 ### （一）、操作系统类
-- Ubuntu
-阿里云：http://mirrors.aliyun.com/ubuntu-releases/
-网易：http://mirrors.163.com/ubuntu-releases/
-搜狐：http://mirrors.sohu.com/ubuntu-releases/（搜狐在12年之后似乎不同步了）
-首都在线科技股份有限公司：http://mirrors.yun-idc.com/ubuntu-releases/
+#### Ubuntu
+- 阿里云：http://mirrors.aliyun.com/ubuntu-releases/
+- 网易：http://mirrors.163.com/ubuntu-releases/
+- 搜狐：http://mirrors.sohu.com/ubuntu-releases/（搜狐在12年之后似乎不同步了）
+- 首都在线科技股份有限公司：http://mirrors.yun-idc.com/ubuntu-releases/
 
-- centos
-网易：http://mirrors.163.com/centos/
-搜狐：http://mirrors.sohu.com/centos/
-阿里云：http://mirrors.aliyun.com/centos/
+#### CentOS
+- 网易：http://mirrors.163.com/centos/
+- 搜狐：http://mirrors.sohu.com/centos/
+- 阿里云：http://mirrors.aliyun.com/centos/
 
 ### （二）、服务器类
 #### tomcat、Apache
