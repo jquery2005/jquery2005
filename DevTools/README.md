@@ -3,6 +3,7 @@
 ## Consul
 
 - consul服务中的僵尸节点或服务注销
+
 实验环境：
 consul server - 192.168.1.2
 consul client - 192.168.1.3
