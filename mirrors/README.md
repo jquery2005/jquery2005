@@ -3,9 +3,10 @@
 ## 一、站点版
 ### （一）、企业站
 - 搜狐：http://mirrors.sohu.com/
-- 网易：http://mirrors.163.com/
+- 网易：http://mirrors.163.com/ , http://mirrors.cn99.com
 - 阿里云：http://mirrors.aliyun.com/
 - 腾讯：http://android-mirror.bugly.qq.com:8080/（仅针对APP开发的软件，限流，不推荐）
+- 华为：https://mirrors.huaweicloud.com/
 
 ### （二）、教育站
 - 上海交通大学：http://ftp.sjtu.edu.cn/html/resources.xml（部分移动运营商出口状况不佳，无法访问）
@@ -31,6 +32,7 @@
 - 电子科技大学：http://ubuntu.uestc.edu.cn/（无法访问，ping超时）
 - 电子科技大学星辰工作室：http://mirrors.stuhome.net/（当前已用容量估计：1.08T）
 - 西北农林科技大学：http://mirrors.nwsuaf.edu.cn/（只做CentOS镜像，当前已用容量估计：140GB）
+- 南京邮电大学：http://mirrors.njupt.edu.cn/
 
 ### （三）、其他
 - 首都在线科技股份有限公司（英文名Capital Online Data Service）：http://mirrors.yun-idc.com/
