@@ -2,7 +2,7 @@
 
 ## 一、站点版
 ### （一）、企业站
-- 搜狐：[http://mirrors.sohu.com/](http://mirrors.sohu.com/)
+- 搜狐：[http://mirrors.sohu.com/](http://mirrors.sohu.com/){:target="_blank"}
 - 网易：[http://mirrors.163.com/](http://mirrors.163.com/) , [http://mirrors.cn99.com](http://mirrors.cn99.com)
 - 阿里云：[http://mirrors.aliyun.com/](http://mirrors.aliyun.com/)
 - 腾讯：[http://android-mirror.bugly.qq.com:8080/](http://android-mirror.bugly.qq.com:8080/) （仅针对APP开发的软件，限流，不推荐）
