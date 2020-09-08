@@ -9,30 +9,52 @@
 - 华为：[https://mirrors.huaweicloud.com/](https://mirrors.huaweicloud.com/)
 
 ### （二）、教育站
-- 上海交通大学：[http://ftp.sjtu.edu.cn/html/resources.xml](http://ftp.sjtu.edu.cn/html/resources.xml) （部分移动运营商出口状况不佳，无法访问）
-- 华中科技大学：[http://mirror.hust.edu.cn/](http://mirror.hust.edu.cn/) （当前已用容量估计：4.83T）
-- 清华大学：[http://mirrors.tuna.tsinghua.edu.cn/](http://mirrors.tuna.tsinghua.edu.cn/) （当前已用容量估计：9.8T）
-- 北京理工大学：[http://mirror.bit.edu.cn/web/](http://mirror.bit.edu.cn/web/)
-- 兰州大学：[http://mirror.lzu.edu.cn/](http://mirror.lzu.edu.cn/)
-- 中国科技大学：[http://mirrors.ustc.edu.cn/](http://mirrors.ustc.edu.cn/) （当前已用容量估计：21.32T）
-- 大连东软信息学院：[http://mirrors.neusoft.edu.cn/](http://mirrors.neusoft.edu.cn/) （当前已用容量估计：2.5T）
-- 东北大学：[http://mirror.neu.edu.cn/](http://mirror.neu.edu.cn/)
-- 大连理工大学：[http://mirror.dlut.edu.cn/](http://mirror.dlut.edu.cn/)
-- 哈尔滨工业大学：[http://run.hit.edu.cn/html/](http://run.hit.edu.cn/html/) （部分联通运营商出口状况不佳，无法访问）
-- 北京交通大学：[http://mirror.bjtu.edu.cn/cn/](http://mirror.bjtu.edu.cn/cn/)
-- 天津大学：[http://mirror.tju.edu.cn](http://mirror.tju.edu.cn) （无法访问，ping超时）
-- 中国地质大学：[http://mirrors.cug.edu.cn/](http://mirrors.cug.edu.cn/) （当前已用容量估计：2.3T）
-- 浙江大学：[http://mirrors.zju.edu.cn/](http://mirrors.zju.edu.cn/)
-- 厦门大学：[http://mirrors.xmu.edu.cn/](http://mirrors.xmu.edu.cn/)
-- 中山大学：[http://mirror.sysu.edu.cn/](http://mirror.sysu.edu.cn/)
-- 重庆大学：[http://mirrors.cqu.edu.cn/](http://mirrors.cqu.edu.cn/) （当前已用容量估计：3.93T）
-- 北京化工大学：[http://ubuntu.buct.edu.cn/](http://ubuntu.buct.edu.cn/) （Android SDK镜像仅供校内使用，当前已用容量估计：1.72T）
-- 南阳理工学院：[http://mirror.nyist.edu.cn/](http://mirror.nyist.edu.cn/)
+- **东北地区：**
+
+  东北大学：[http://mirror.neu.edu.cn/](http://mirror.neu.edu.cn/), [IPv6](http://mirror.neu6.edu.cn/)
+  大连理工大学：[http://mirror.dlut.edu.cn/](http://mirror.dlut.edu.cn/)
+  大连东软信息学院：[http://mirrors.neusoft.edu.cn/](http://mirrors.neusoft.edu.cn/) （当前已用容量估计：2.5T）
+  哈尔滨工业大学：[http://run.hit.edu.cn/html/](http://run.hit.edu.cn/html/), [IPv6](http://run.hit6.edu.cn/) （部分联通运营商出口状况不佳，无法访问）
+  
+- **华北地区：**
+  清华大学：[http://mirrors.tuna.tsinghua.edu.cn/](http://mirrors.tuna.tsinghua.edu.cn/) （当前已用容量估计：9.8T）
+  北京理工大学：[http://mirror.bit.edu.cn/web/](http://mirror.bit.edu.cn/web/)
+  北京交通大学：[http://mirror.bjtu.edu.cn/cn/](http://mirror.bjtu.edu.cn/cn/)
+  北京化工大学：[http://ubuntu.buct.edu.cn/](http://ubuntu.buct.edu.cn/) （Android SDK镜像仅供校内使用，当前已用容量估计：1.72T）
+  天津大学：[http://mirror.tju.edu.cn](http://mirror.tju.edu.cn) （无法访问，ping超时）
+  
+- **华东北地区：**
+  中国科技大学：[http://mirrors.ustc.edu.cn/](http://mirrors.ustc.edu.cn/) （当前已用容量估计：21.32T）
+
+- **华中地区：**
+  华中科技大学：[http://mirror.hust.edu.cn/](http://mirror.hust.edu.cn/) （当前已用容量估计：4.83T）
+中国地质大学：[http://mirrors.cug.edu.cn/](http://mirrors.cug.edu.cn/) （当前已用容量估计：2.3T）
+  南阳理工学院：[http://mirror.nyist.edu.cn/](http://mirror.nyist.edu.cn/)
+  
+- **华东南地区：**
+  上海交通大学：[http://ftp.sjtu.edu.cn/html/resources.xml](http://ftp.sjtu.edu.cn/html/resources.xml) （部分移动运营商出口状况不佳，无法访问）
+浙江大学：[http://mirrors.zju.edu.cn/](http://mirrors.zju.edu.cn/)
+  厦门大学：[http://mirrors.xmu.edu.cn/](http://mirrors.xmu.edu.cn/)
+  
+- **华南地区：**
+  中山大学：[http://mirror.sysu.edu.cn/](http://mirror.sysu.edu.cn/)
+南京邮电大学：[http://mirrors.njupt.edu.cn/](http://mirrors.njupt.edu.cn/)
+  
+- **西北地区：**
+  兰州大学：[http://mirror.lzu.edu.cn/](http://mirror.lzu.edu.cn/)
+西北农林科技大学：[http://mirrors.nwsuaf.edu.cn/](http://mirrors.nwsuaf.edu.cn/) （只做CentOS镜像，当前已用容量估计：140GB）
+  
+- **西南地区：**
+  重庆大学：[http://mirrors.cqu.edu.cn/](http://mirrors.cqu.edu.cn/) （当前已用容量估计：3.93T）
+
+- **其他地区：**
+
 - 中国科学院：[http://www.opencas.org/mirrors/](http://www.opencas.org/mirrors/)
+
 - 电子科技大学：[http://ubuntu.uestc.edu.cn/](http://ubuntu.uestc.edu.cn/) （无法访问，ping超时）
+
 - 电子科技大学星辰工作室：[http://mirrors.stuhome.net/](http://mirrors.stuhome.net/) （当前已用容量估计：1.08T）
-- 西北农林科技大学：[http://mirrors.nwsuaf.edu.cn/](http://mirrors.nwsuaf.edu.cn/) （只做CentOS镜像，当前已用容量估计：140GB）
-- 南京邮电大学：[http://mirrors.njupt.edu.cn/](http://mirrors.njupt.edu.cn/)
+
 
 ### （三）、其他
 - 首都在线科技股份有限公司（英文名Capital Online Data Service）：[http://mirrors.yun-idc.com/](http://mirrors.yun-idc.com/)
@@ -79,6 +101,10 @@
 - 中国科技大学：[http://mirrors.ustc.edu.cn/videolan-ftp/](http://mirrors.ustc.edu.cn/videolan-ftp/)
 
 ### （三）、开发工具类
+#### git
+
+- 清华大学：https://mirrors.tuna.tsinghua.edu.cn/github-release/git-for-windows/git/
+
 #### eclipse
 - 中国科技大学：[http://mirrors.ustc.edu.cn/eclipse/](http://mirrors.ustc.edu.cn/eclipse/)
 - 中国科学院：[http://mirrors.opencas.cn/eclipse/](http://mirrors.opencas.cn/eclipse/)
