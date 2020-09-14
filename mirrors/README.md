@@ -12,15 +12,22 @@
 - **东北地区：**
 
   东北大学：[http://mirror.neu.edu.cn/](http://mirror.neu.edu.cn/), [IPv6](http://mirror.neu6.edu.cn/)
+  
   大连理工大学：[http://mirror.dlut.edu.cn/](http://mirror.dlut.edu.cn/)
+  
   大连东软信息学院：[http://mirrors.neusoft.edu.cn/](http://mirrors.neusoft.edu.cn/) （当前已用容量估计：2.5T）
+  
   哈尔滨工业大学：[http://run.hit.edu.cn/html/](http://run.hit.edu.cn/html/), [IPv6](http://run.hit6.edu.cn/) （部分联通运营商出口状况不佳，无法访问）
   
 - **华北地区：**
   清华大学：[http://mirrors.tuna.tsinghua.edu.cn/](http://mirrors.tuna.tsinghua.edu.cn/) （当前已用容量估计：9.8T）
+  
   北京理工大学：[http://mirror.bit.edu.cn/web/](http://mirror.bit.edu.cn/web/)
+  
   北京交通大学：[http://mirror.bjtu.edu.cn/cn/](http://mirror.bjtu.edu.cn/cn/)
+  
   北京化工大学：[http://ubuntu.buct.edu.cn/](http://ubuntu.buct.edu.cn/) （Android SDK镜像仅供校内使用，当前已用容量估计：1.72T）
+  
   天津大学：[http://mirror.tju.edu.cn](http://mirror.tju.edu.cn) （无法访问，ping超时）
   
 - **华东北地区：**
@@ -28,21 +35,27 @@
 
 - **华中地区：**
   华中科技大学：[http://mirror.hust.edu.cn/](http://mirror.hust.edu.cn/) （当前已用容量估计：4.83T）
-中国地质大学：[http://mirrors.cug.edu.cn/](http://mirrors.cug.edu.cn/) （当前已用容量估计：2.3T）
+
+  中国地质大学：[http://mirrors.cug.edu.cn/](http://mirrors.cug.edu.cn/) （当前已用容量估计：2.3T）
+  
   南阳理工学院：[http://mirror.nyist.edu.cn/](http://mirror.nyist.edu.cn/)
   
 - **华东南地区：**
   上海交通大学：[http://ftp.sjtu.edu.cn/html/resources.xml](http://ftp.sjtu.edu.cn/html/resources.xml) （部分移动运营商出口状况不佳，无法访问）
-浙江大学：[http://mirrors.zju.edu.cn/](http://mirrors.zju.edu.cn/)
+
+  浙江大学：[http://mirrors.zju.edu.cn/](http://mirrors.zju.edu.cn/)
+  
   厦门大学：[http://mirrors.xmu.edu.cn/](http://mirrors.xmu.edu.cn/)
   
 - **华南地区：**
   中山大学：[http://mirror.sysu.edu.cn/](http://mirror.sysu.edu.cn/)
-南京邮电大学：[http://mirrors.njupt.edu.cn/](http://mirrors.njupt.edu.cn/)
+
+  南京邮电大学：[http://mirrors.njupt.edu.cn/](http://mirrors.njupt.edu.cn/)
   
 - **西北地区：**
   兰州大学：[http://mirror.lzu.edu.cn/](http://mirror.lzu.edu.cn/)
-西北农林科技大学：[http://mirrors.nwsuaf.edu.cn/](http://mirrors.nwsuaf.edu.cn/) （只做CentOS镜像，当前已用容量估计：140GB）
+
+  西北农林科技大学：[http://mirrors.nwsuaf.edu.cn/](http://mirrors.nwsuaf.edu.cn/) （只做CentOS镜像，当前已用容量估计：140GB）
   
 - **西南地区：**
   重庆大学：[http://mirrors.cqu.edu.cn/](http://mirrors.cqu.edu.cn/) （当前已用容量估计：3.93T）
