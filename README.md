@@ -1,1 +1,1 @@
-# study start
+# Hi there 👋
